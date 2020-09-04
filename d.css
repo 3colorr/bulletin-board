@@ -1,0 +1,183 @@
+@media screen and (min-width: 768px) {
+    
+}
+
+
+@media screen and (min-width: 1024px) {
+    
+}
+
+
+
+html {
+    width: 100%;
+    height: 100%;
+    font-size: 100%;
+}
+
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+
+
+div#title-block {
+    position: relative;
+    background: rgb(255,255,255);
+    color: rgb(120,160,240);
+    width: 100vw;
+    height: 100vh;
+}
+
+p.title-centering {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 25rem;
+    height: 25rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img.ic_logo_cls {
+    padding-left: 7.5rem;
+    width: 10rem;
+    height: 10rem;
+}
+
+span.team-name {
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 7rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.policy {
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-left: 2.5rem;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+div#contents-block {
+    position: relative;
+    background: rgb(240,240,160);
+    width: 100vw;
+    height: 100vh;
+}
+
+p.contents-centering {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 26rem;
+    height: 10rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p.contents-link {
+    position: absolute;
+    top: 30rem;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 9rem;
+    height: 6rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img.ic_app_cls {
+    width: 10rem;
+    height: 10rem;
+}
+
+span.app-intro {
+    color: rgb(230,60,30);
+    font-size: 5rem;
+    padding-left: 20px;
+}
+
+
+
+div#contents-download-block {
+    background: rgb(240,240,160);
+    width: 100vw;
+    height: 100vh;
+}
+
+div.contents-download-intro {
+    color: rgb(230,60,30);
+    font-size: 1.5rem;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+div.contents-download-link {
+    color: rgb(230,60,30);
+    text-align: center;
+}
+
+a.contents-download-link-ios {
+    margin: 50px;
+}
+
+a.contents-download-link-android {
+    margin-right: 30px;
+}
+
+img.contents-download-badge-android {
+    height: 45px;
+    width: 140px;
+}
+
+
+
+div#social-block {
+    position: relative;
+    background: rgb(120,160,240);
+    width: 100vw;
+    height: 100vh;
+}
+
+
+p.social-centering {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 21rem;
+    height: 4rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+img.ic_link_most-left {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+img.ic_link_next-right {
+    width: 4rem;
+    height: 4rem;
+    margin-left: 4rem;
+    margin-right: 0px;
+}
+
