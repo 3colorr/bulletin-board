@@ -181,3 +181,46 @@ img.ic_link_next-right {
     margin-right: 0px;
 }
 
+span.policy-app-name {
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 4rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.policy-title {
+    left: 0;
+    right: 0;
+    color: rgb(230,60,30);
+    margin: auto;
+    font-size: 3rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.policy-main {
+    left: 0;
+    right: 0;
+    color: rgb(80,80,80);
+    margin: auto;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.policy-permission {
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span.policy-body {
+    left: 0;
+    right: 0;
+    color: rgb(80,80,80);
+    margin: auto;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+}
